@@ -1,1 +1,1 @@
-this is letter 6 from cs50
+this is cs50w as from lecture 6 moving uploaded learning
