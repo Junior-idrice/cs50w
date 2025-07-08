@@ -1,1 +1,3 @@
-this is cs50w as from lecture 6 moving uploaded learning
+-this is cs50w as from lecture 6 moving uploaded learning
+-introduction to YAML file
+-Testing, CI &CD
